@@ -1,0 +1,13 @@
+# Django project .gitignore
+
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+*.log
+media/
+notes.txt
+
+# Uncomment the following line if you collect static files
+# staticfiles/
